@@ -1,7 +1,7 @@
 # FizzBuzz
 
 ## Step 1:
-Write a function that returns the following result, for a contiguous range of numbers:
+Write a function that returns the following result, for a continuous range of numbers:
 * the number
 * 'fizz' for numbers that are multiples of 3
 * 'buzz' for numbers that are multiples of 5
@@ -28,11 +28,11 @@ e.g. if I run the program over a range from 1-20 I should get the following resu
 Enhance your existing solution to perform the following:
 
 Return an object with the result and a report showing how many times the following were output
-** fizz
-** buzz
-** fizzbuzz
-** lucky
-** an integer
+* fizz
+* buzz
+* fizzbuzz
+* lucky
+* an integer
 
 e.g. if I run the program over a range from 1-20 I should get the following result:
 
